@@ -1,0 +1,6 @@
+[
+  {
+    "version": "0.0.0-example",
+    "releaseNotes": "## Example release notes\n\nThis is a template, not a published DockMagic release. Replace this sample entry with the actual version and finalized release notes when publishing.\n\n### Added\n- Describe new features here.\n\n### Improved\n- Describe improvements here.\n\n### Fixed\n- Describe bug fixes here.\n"
+  }
+]
