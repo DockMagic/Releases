@@ -2,9 +2,5 @@
   {
     "version": "1.0",
     "releaseNotes": "# DockMagic 1.0\n\nThe first release of DockMagic, an independent Widget Dock for macOS.\n\n## Features\n\n- Place your DockMagic Dock at the bottom, left, or right of a display.\n- Choose, arrange, resize, and customize Widgets for system activity, network traffic, batteries, sound, clocks, calendars, Gmail, and power controls.\n- Link Google accounts to read Gmail through read-only Widgets and a message popup.\n- Use the free Widget selection or activate a lifetime license for additional styles.\n- Enable Check for Update in Settings to receive future releases.\n\n## Compatibility and installation\n\n- Requires macOS 14.0 or later.\n- Download the disk image, open it, and drag DockMagic into Applications.\n- Launch DockMagic from Applications. Settings, Show Dock, and Quit are available from its menu bar icon.\n- Gmail requires Google authorization. Calendar and other protected features request their relevant macOS permissions.\n- License activation and verification require an internet connection.\n"
-  },
-  {
-    "version": "0.0.0-example",
-    "releaseNotes": "## Example release notes\n\nThis is a template, not a published DockMagic release. Replace this sample entry with the actual version and finalized release notes when publishing.\n\n### Added\n- Describe new features here.\n\n### Improved\n- Describe improvements here.\n\n### Fixed\n- Describe bug fixes here.\n"
   }
 ]
